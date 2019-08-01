@@ -1,0 +1,5 @@
+/build
+/libs
+**/res
+*.pro
+*.iml
